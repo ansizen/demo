@@ -1,1 +1,0 @@
-import{_ as s,c as o,b as e,e as a}from"./index-CztUvQrW.js";const r={class:"footer"},c={__name:"Foot",setup(_){return(i,t)=>(a(),o("div",r,t[0]||(t[0]=[e("div",{class:"left-text"},"Copyright @ 2019-2025有限公司 All Rights Reserved.",-1),e("div",{class:"right-text"},"CP备案号：蜀ICP备2025123251号-1",-1)])))}},n=s(c,[["__scopeId","data-v-e4a92c80"]]);export{n as F};
